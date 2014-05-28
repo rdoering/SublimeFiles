@@ -48,7 +48,7 @@ For OS X/Linux systems, Sublime Files can open up a terminal at the current dire
 For example, Gnome Terminal and iTerm2 users respectively will want to change `term_command` to: 
 
 	{
-	    "term_command": "gnome-terminal --working-directory="
+	    "term_command": "gnome-terminal"
 	}
 
 and
